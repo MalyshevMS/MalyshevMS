@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MalyshevMS
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming computer games
 - 🌱 I’m currently learning C++
 
 <!---
